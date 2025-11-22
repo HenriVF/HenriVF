@@ -105,6 +105,7 @@ Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixona
   />
 
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriVF/HenriVF/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriVF/HenriVF/output/pacman-contribution-graph.svg">
