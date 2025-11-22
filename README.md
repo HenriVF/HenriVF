@@ -1,6 +1,6 @@
 <h1>Olá! Eu Sou Henrique Vieira 👨🏽‍💻</h1>
 
-Me chamo Henrique Viera Ferreira, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco. 
+Me chamo Henrique Vieira Ferreira, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco. 
 Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixonado por Tecnologia. Educação e por mudar a vidas pessoas atraves da programação .
 
 <p align="left">
