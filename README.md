@@ -112,4 +112,3 @@ Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixona
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenriVF/HenriVF/output/pacman-contribution-graph.svg">
 </picture>
 
-
