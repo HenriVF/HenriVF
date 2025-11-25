@@ -89,7 +89,7 @@ Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixona
 ### 📊 Estatísticas
 
 <p>
-  <img 
+   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
