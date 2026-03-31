@@ -1,8 +1,8 @@
 <h1>Hey 👋 What'Up ?👨🏽‍💻</h1>
 
-I'm Henrique Viera Ferreira,I'm based in São Paulo, Brazil. I completed high school at Fundação Bradesco and I am currently studying Software Engineering at FIAP-Paulista.
+I'm **Henrique Vieira Ferreira**,I'm based in São Paulo, Brazil. I completed high school at Fundação Bradesco and I am currently studying **Software Engineering at FIAP-Paulista**.
 
-I am an enthusiast of technology and education, motivated by the purpose of transforming people's lives through programming. In software development, my focus is on Back-end, Front-end and Artificial Intelligence, seeking to create complete and innovative solutions that generate real impact. tem como  diminuir
+I am an enthusiast of technology and education, motivated by the purpose of transforming people's lives through programming. In software development, my focus is on **Back-end, Front-end and Artificial Intelligence**, seeking to create complete and innovative solutions that generate real impact. tem como  diminuir
 <p align="left">
     <div> 
 <a href="https://instagram.com/dorgazx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
