@@ -2,7 +2,15 @@
 
 I'm **Henrique Vieira Ferreira**,I'm based in São Paulo, Brazil. I completed high school at Fundação Bradesco and I am currently studying **Software Engineering at FIAP-Paulista**.
 
-I am an enthusiast of technology and education, motivated by the purpose of transforming people's lives through programming. In software development, my focus is on **Back-end, Front-end and Artificial Intelligence**, seeking to create complete and innovative solutions that generate real impact. tem como  diminuir
+I am an enthusiast of technology and education, motivated by the purpose of transforming people's lives through programming. In software development, my focus is on **Back-end, Front-end and Artificial Intelligence**, seeking to create complete and innovative solutions that generate real impact.
+
+####
+
+<h2 align="left">About me</h2>
+📚 I'm currently learning JAVA☕<br>
+🎲 Fun fact: I'm also skateboarder and a Music lover 🎵
+
+####
 <p align="left">
     <div> 
 <a href="https://instagram.com/dorgazx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
