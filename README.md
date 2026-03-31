@@ -82,8 +82,6 @@ Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixona
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img src="https://raw.githubusercontent.com/HenriVF/HenriVF/output/snake.svg" alt="Snake animation" />
-
 ###
 <br/>
 <br/>
