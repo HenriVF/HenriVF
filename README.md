@@ -1,8 +1,7 @@
-<h1>Olá! Eu Sou Henrique Vieira 👨🏽‍💻</h1>
+<h1>Hey 👋 What'Up ?👨🏽‍💻</h1>
 
-Me chamo Henrique Vieira Ferreira, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco. 
-Atualmente, estou cursando Engenharia de Software na FIAP-Paulista. Sou apaixonado por Tecnologia. Educação e por mudar a vidas pessoas atraves da programação .
-
+Sou o Henrique Vieira Ferreira, tenho 17 anos e sou natural de São Paulo. Concluí meu ensino médio na Fundação Bradesco e, atualmente, curso **Engenharia de Software na FIAP-Paulista**.<br>
+Sou um entusiasta da tecnologia e da educação, movido pelo propósito de transformar a vida das pessoas por meio da programação. No desenvolvimento de software, meu foco de atuação é voltado para **Back-end**, **Front-end** e **Inteligência Artificial**, buscando criar soluções completas e inovadoras que gerem impacto real.
 <p align="left">
     <div> 
 <a href="https://instagram.com/dorgazx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
