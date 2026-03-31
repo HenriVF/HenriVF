@@ -13,7 +13,6 @@ I am an enthusiast of technology and education, motivated by the purpose of tran
 ####
 <p align="left">
     <div> 
-<a href="https://instagram.com/dorgazx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "ferrehenrique514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/henrique-vieira-ferreira-b32b48316/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -22,7 +21,7 @@ I am an enthusiast of technology and education, motivated by the purpose of tran
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### I Code With 🤖 
 
 <img 
     align="left" 
