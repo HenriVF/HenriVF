@@ -1,6 +1,6 @@
 <h1>Hey 👋 What'Up ?👨🏽‍💻</h1>
 
-I'm **Henrique Vieira Ferreira**,I'm based in São Paulo, Brazil, I am currently an **intern at Banco Bradesco **. I completed high school at Fundação Bradesco and I am currently studying **Software Engineering at FIAP-Paulista**.
+I'm **Henrique Vieira Ferreira**,I'm based in São Paulo, Brazil, I am currently an **intern at Banco Bradesco**. I completed high school at Fundação Bradesco and I am currently studying **Software Engineering at FIAP-Paulista**.
 
 I am an enthusiast of technology and education, motivated by the purpose of transforming people's lives through programming. In software development, my focus is on **Back-end, Front-end and Artificial Intelligence**, seeking to create complete and innovative solutions that generate real impact.
 
