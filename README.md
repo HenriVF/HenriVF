@@ -7,7 +7,7 @@ I am an enthusiast of technology and education, motivated by the purpose of tran
 ####
 
 <h2 align="left">About me</h2>
-📚 I'm currently learning JAVA☕<br>
+📚 I am an intern at Banco Bradesco.<br>
 🎲 Fun fact: I'm also skateboarder and a Music lover 🎵
 
 ####
